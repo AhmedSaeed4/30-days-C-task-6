@@ -12,5 +12,3 @@
 ## 5 List of Repos Formatted
 ![5 list of repos fromated](screenshots/5%20list%20of%20repos%20fromated.png)
 
-## Env File Screenshot
-![Env file screenshot](screenshots/env%20file%20screenshot.png)
