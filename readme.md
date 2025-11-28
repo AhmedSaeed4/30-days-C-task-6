@@ -1,5 +1,8 @@
 # Project Screenshots
 
+## Env File Screenshot
+![Env file screenshot](screenshots/1%20env%20file%20screenshot.png)
+
 ## 2 Settings JSON Screenshot
 ![2 settings json screenshot](screenshots/2%20settings%20json%20screenshot.png)
 
